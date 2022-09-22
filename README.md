@@ -1,12 +1,5 @@
-<!-- - 👋 Hi, I’m @binscorai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+[![GitHub stats](https://binscorai-readme.vercel.app/api?username=binscor&count_private=true&show_icons=true&theme=onedark)](https://github.com/binscor/binscor)
 
-<!---
-binscorai/binscorai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Readme Card](https://binscorai-readme.vercel.app/api/pin/?username=binscorai&repo=binscorai&theme=onedark)](https://github.com/binscor/binscor)
 
-![](https://github-readme-stats.vercel.app/api?username=binscorai)
+[![Top Langs](https://binscorai-readme.vercel.app/api/top-langs/?username=binscor&theme=onedark)](https://github.com/binscor/binscor)
